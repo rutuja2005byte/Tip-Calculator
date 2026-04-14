@@ -16,14 +16,11 @@ A simple and responsive Tip Calculator web application that helps users quickly 
 * JavaScript (Vanilla JS) – Logic and calculations
 
 📂 Project Structure
-tip-calculator/
-│
-├── index.html        # Main HTML file
-├── style.css         # Styling file
-├── script.js         # JavaScript logic
-└── images/
-    ├── restaurant.jpeg
-    └── favicon.ico
+tip-calculator
+  index.html        # Main HTML file
+  style.css         # Styling file
+  script.js         # JavaScript logic
+  images
 
 ⚙️ How It Works
 - User enters the bill amount.
